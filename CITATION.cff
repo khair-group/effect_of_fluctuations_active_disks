@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kailasham"
+  given-names: "R."
+- family-names: "Khair"
+  given-names: "Aditya S."
+title: "PM and RS disk simulations in 2D"
+date-released: 2023-05-18
+url: "https://github.com/khair-group/effect_of_fluctuations_active_disks"
